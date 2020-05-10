@@ -182,3 +182,4 @@
 0.0.0.0	api.leanplum.com
 0.0.0.0	upload2.fp.measure.office.com
 0.0.0.0	r.mradx.net
+0.0.0.0	mazu.sec.miui.com
