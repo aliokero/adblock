@@ -8,3 +8,4 @@ console.developers.google.com
 gstatic.com
 www.gstatic.com
 fonts.gstatic.com
+mmg-fna.whatsapp.net
