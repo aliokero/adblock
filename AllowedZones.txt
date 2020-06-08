@@ -9,3 +9,4 @@ gstatic.com
 www.gstatic.com
 fonts.gstatic.com
 mmg-fna.whatsapp.net
+web.whatsapp.com
